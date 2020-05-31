@@ -1,0 +1,8 @@
+Public Static Main Login ()
+{
+  var i = 0;
+  for(i=0; i< 20; i++)
+  {
+    system.println("Hello world:"+i");
+  }
+}
